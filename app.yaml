@@ -32,6 +32,7 @@ handlers:
 skip_files:
     - manage.py
     - README.md
+    - blah
     - install_deps
     - requirements.txt
     - sitepackages/dev*
